@@ -40,7 +40,7 @@ This investigation focused on identifying suspicious characteristics within the 
 
 **Evidence:**
 
-*Screenshot coming soon.*
+![Invoice Phishing Email Analysis](screenshots/dropboxphishingproject.png)
 
 ---
 
@@ -57,7 +57,7 @@ This investigation examined how attackers use recognizable brands, urgent accoun
 
 **Evidence:**
 
-*Screenshot coming soon.*
+![Invoice Phishing Email Analysis](screenshots/paypalphishingproject.png)
 
 ---
 
