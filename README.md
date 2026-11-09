@@ -20,23 +20,24 @@ This project focuses on identifying and analyzing phishing attempts through a si
 
 I examined suspicious email samples to identify potential phishing indicators, evaluate security risks, and recommend appropriate protective measures.
 
-The investigation includes two phishing scenarios involving an invoice-themed email and a fraudulent PayPal account notification.
+The investigation includes two phishing scenarios involving an invoice themed email and a fraudulent PayPal account notification.
+
 
 
 ---
 
 ## ✦ 02 / Investigation Cases
 
-### 🔍 Case 01 — Invoice-Themed Phishing
+### 🔍 Case 01 — Invoice Themed Phishing
 
 **Category:** Email Phishing / Social Engineering
 
 **Investigation Focus:**
-An invoice-themed email that used a file-sharing service as part of its phishing approach.
+An invoice themed email that used a file sharing service as part of its phishing approach.
 
 **Analysis:**
 
-This investigation focused on identifying suspicious characteristics within the email and evaluating how an attacker might use invoice-related messaging to encourage a recipient to interact with potentially malicious content.
+This investigation focused on identifying suspicious characteristics within the email and evaluating how an attacker might use invoice related messaging to encourage a recipient to interact with potentially malicious content.
 
 **Evidence:**
 
